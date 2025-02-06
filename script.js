@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded",function(){
     }else{
         feedbackDiv.innerHTML= messages.join('br');
        
-        feedbackDiv.style.color="dc3545";
+        feedbackDiv.style.color="#dc3545";
     }
     
 
